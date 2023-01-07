@@ -25,6 +25,9 @@ In this project, we determine turn the higher-ranked player the by counting the 
 
 ・Number of training data : Approximately 4,000 sets with Hohei and Tokin of photos and label data.
  - A small number of photos were resized, luminosity changed, and rotated to increase the number.
+ 
+ ![data](https://github.com/dk-flylab/furigoma/blob/main/images/data .png)
+ 
  - Labeling range specification was automated by detecting the edge of the piece.
  
 ![edge](https://github.com/dk-flylab/furigoma/blob/main/images/edge.gif)
