@@ -22,7 +22,7 @@ This project counts the types of pieces in furikoma to determine the first and s
 
 
 # AI model and Training of Deep Learning
-・Model : [YOLOv5s](https://github.com/ultralytics/yolov5)
+・Model : [YOLOv5s](https://github.com/ultralytics/yolov5#pretrained-checkpoints)
 
 ・Number of training data : Approximately 4,000 sets with Hohei and Tokin of photos and label data.
  - A small number of photos were resized, luminosity changed, and rotated to increase the number.
