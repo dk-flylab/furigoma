@@ -28,9 +28,9 @@ In this project, we determine turn the higher-ranked player the by counting the 
  
  ![data](https://github.com/dk-flylab/furigoma/blob/main/images/data%20.png)
  
- - Labeling range specification was automated by detecting the edge of the piece.
+ - Segmentation was automated by detecting the edges of the piece.
  
-![edge](https://github.com/dk-flylab/furigoma/blob/main/images/edge.gif)Video of automatic range setting results
+![edge](https://github.com/dk-flylab/furigoma/blob/main/images/edge.gif)Video of automatic segmentation setting results
  
 ・Training epoch : 100
 
