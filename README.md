@@ -48,3 +48,14 @@ Picture of the edge system is here.
 ![Sente](https://github.com/dk-flylab/furigoma/blob/main/images/sente.gif)
 
 ![Gote](https://github.com/dk-flylab/furigoma/blob/main/images/gote.gif)
+
+# Setup to Run
+Jetson
+Prepareing hardwares are as follows and Connecting them like a picture.
+・Jetson Nano
+・USB Camera
+・Display
+・Keyboard
+・Mouse
+・Wired LAN Cable
+・Power Supply
