@@ -61,5 +61,5 @@ Prepareing hardwares are as follows and Connecting them like a picture.
  - Wireless LAN module
  - Power Supply
  
-![jetson](https://github.com/dk-flylab/furigoma/blob/main/images/jetson_nano.jpg)
+![jetson](https://github.com/dk-flylab/furigoma/blob/main/images/jetson_nano.png)
 
