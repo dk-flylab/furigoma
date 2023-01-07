@@ -37,6 +37,7 @@ Learning was done using [googlecolab](https://colab.research.google.com/).
 
 # Edge System
 ・Hardware : Edge device is NVIDIA Jetson Nano, and video source is USB Camera of Logicool C270n.
+
 ・Sosftware : Modified based on Yolov5's detect.py.　Added counting of piece types and determining the order of t higher ranked player.
 
 Picture of the edge system is here.
