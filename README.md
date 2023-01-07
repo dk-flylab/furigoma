@@ -47,4 +47,4 @@ Picture of the edge system is here.
 
 ![Sente](https://github.com/dk-flylab/furigoma/blob/main/images/sente.gif)
 
-![Gote](https://github.com/dk-flylab/furigoma/blob/main/images/Gote.gif)
+![Gote](https://github.com/dk-flylab/furigoma/blob/main/images/gote.gif)
