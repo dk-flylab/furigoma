@@ -7,8 +7,8 @@ Shogi can take up to two days to complete a single game, and viewers can enjoy n
 For example, the facial expressions and gestures of the players, the meals they eat, and the traditional Shogi manners.
 Among them, Furikoma(Piece Toss) is also popular.
 Furikoma(Piece Toss) is a formal method of randomly determining the first and second positions in a game of shogi. It is the action of taking five Hohei(Pawn) on the board, mixing them up, and releasing them.[(Furikoma in the 79th Meijin(Shogi master) match)](https://www.youtube.com/watch?v=LsHWH7vo8r8#t=17m10s)
-The front of the piece is Hohei(Pawn) and the back is Tokin(Promoted Pawn).
 
+The front of the piece is Hohei(Pawn) and the back is Tokin(Promoted Pawn).
 ![Hohei(Pawn)](https://github.com/dk-flylab/furigoma/blob/main/images/ExampleTraining_hohei.JPG)
 Hohei(Pawn)
 
