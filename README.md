@@ -36,6 +36,9 @@ This project counts the types of pieces in furikoma to determine the first and s
 Learning was done using [googlecolab](https://colab.research.google.com/).
 
 # Edge System
-・Hardware
-　　Edge device is NVIDIA Jetson Nano, and video source is USB Camera of Logitech C270.
+・Hardware : Edge device is NVIDIA Jetson Nano, and video source is USB Camera of Logitech C270.
+・Sosftware : Modified based on Yolov5's detect.py.　Added counting of piece types and determining the order of t higher ranked player.
 
+Picture of the edge system is here.
+
+![EdgeSystem](https://github.com/dk-flylab/furigoma/blob/main/images/EdgeSystem.jpg)
