@@ -42,3 +42,9 @@ Learning was done using [googlecolab](https://colab.research.google.com/).
 Picture of the edge system is here.
 
 ![EdgeSystem](https://github.com/dk-flylab/furigoma/blob/main/images/EdgeSystem.jpg)
+
+# DEMO
+
+![Sente](https://github.com/dk-flylab/furigoma/blob/main/images/sente.gif)
+
+![Gote](https://github.com/dk-flylab/furigoma/blob/main/images/Gote.gif)
