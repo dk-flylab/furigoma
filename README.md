@@ -18,8 +18,7 @@ Tokin(Promoted Pawn)
 
 If there are many Hohei(Pawn), the higher ranked player moves his pieces first(Sente(Black)), and if there are many Tokin(Promoted Pawn) pieces, the higher ranked player moves his pieces later(Gote(White)).[(Furikoma in the 79th Meijin(Shogi master) match)](https://www.youtube.com/watch?v=LsHWH7vo8r8#t=17m10s)
 
-This project counts the types of pieces in furikoma to determine the first or second moves of the higher-ranked players.
-
+In this project, we determine turn the higher-ranked player the by counting the types of pieces
 
 # AI model and Training of Deep Learning
 ・Model : [YOLOv5s](https://github.com/ultralytics/yolov5#pretrained-checkpoints)
