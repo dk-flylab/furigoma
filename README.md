@@ -24,7 +24,7 @@ This project counts the types of pieces in furikoma to determine the first and s
 # AI model and Training of Deep Learning
 ・Algorithm : YOLO v5
 
-・Number of training data : Approximately 4,000 sets of photos and label data.
+・Number of training data : Approximately 4,000 sets with Hohei and Tokin of photos and label data.
  - A small number of photos were resized, luminosity changed, and rotated to increase the number.
  - Labeling range specification was automated by detecting the edge of the piece.
  
