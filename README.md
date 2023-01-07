@@ -33,3 +33,6 @@ This project counts the types of pieces in furikoma to determine the first and s
 `python train.py --img 640 --batch 64 --epochs 100 --data '/content/drive/MyDrive/furigoma.yaml' --name furigoma --cfg ./models/yolov5s.yaml --weights yolov5s.pt`
 
 ![results](https://github.com/dk-flylab/furigoma/blob/main/images/results.png)
+Learning was done using [googlecolab](https://colab.research.google.com/).
+
+
