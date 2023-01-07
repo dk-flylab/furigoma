@@ -35,4 +35,7 @@ This project counts the types of pieces in furikoma to determine the first and s
 ![results](https://github.com/dk-flylab/furigoma/blob/main/images/results.png)
 Learning was done using [googlecolab](https://colab.research.google.com/).
 
+# Edge System
+・Hardware
+　　Edge device is NVIDIA Jetson Nano, and video source is USB Camera of Logitech C270.
 
