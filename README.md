@@ -28,7 +28,7 @@ This project counts the types of pieces in furikoma to determine the first or se
  - A small number of photos were resized, luminosity changed, and rotated to increase the number.
  - Labeling range specification was automated by detecting the edge of the piece.
  
-![edge](https://github.com/dk-flylab/furigoma/blob/main/images/edge.gif) Result of automatic range setting
+![edge](https://github.com/dk-flylab/furigoma/blob/main/images/edge.gif) Video of automatic range setting results
  
 ・Training epoch : 100
 
