@@ -25,5 +25,4 @@ This project counts the types of pieces in furikoma to determine the first and s
 ・Algorithm : YOLO v5
 
 ・Number of training data : Approximately 4,000 sets of photos and label data.
-
 　　※A small number of photos were resized, luminosity changed, and rotated to increase the number
