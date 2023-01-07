@@ -44,7 +44,7 @@ Picture of the edge system is here.
 ![EdgeSystem](https://github.com/dk-flylab/furigoma/blob/main/images/EdgeSystem.jpg)
 
 # DEMO
-There is [FULL VIDEO]() the Edge system running. It uses a fast processing model, and detection accuracy is not high. However, we believe that the results are sufficiently good for practical use.
+There is [FULL VIDEO](https://www.youtube.com/watch?v=eqqjcI9cLNg) the Edge system running. It uses a fast processing model, and detection accuracy is not high. However, we believe that the results are sufficiently good for practical use.
 
 Below are examples of successful detection and determination.
 
