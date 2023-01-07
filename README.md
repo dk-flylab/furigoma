@@ -50,12 +50,16 @@ Picture of the edge system is here.
 ![Gote](https://github.com/dk-flylab/furigoma/blob/main/images/gote.gif)
 
 # Setup to Run
-Jetson
+・Jetson
+
 Prepareing hardwares are as follows and Connecting them like a picture.
-・Jetson Nano
-・USB Camera
-・Display
-・Keyboard
-・Mouse
-・Wired LAN Cable
-・Power Supply
+ - Jetson Nano
+ - USB Camera(Logicool C270n)
+ - Display
+ - Keyboard
+ - Mouse
+ - Wireless LAN module
+ - Power Supply
+ 
+![jetson](https://github.com/dk-flylab/furigoma/blob/main/images/jetson_nano.jpg)
+
