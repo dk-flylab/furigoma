@@ -29,4 +29,4 @@ This project counts the types of pieces in furikoma to determine the first and s
  
 ・Training epoch : 100
 
-![results.png]([https://github.com/dk-flylab/furigoma/blob/main/images/ExampleTraining_hohei.JPG](https://github.com/dk-flylab/furigoma/blob/main/images/results.png)
+![results](https://github.com/dk-flylab/furigoma/blob/main/images/results.png)
