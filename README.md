@@ -63,3 +63,18 @@ Prepareing hardwares are as follows and Connecting them like a picture.
  
 ![jetson](https://github.com/dk-flylab/furigoma/blob/main/images/jetson_nano.png)
 
+・JetPack
+
+JetPack 4.6.3 is [here](https://developer.nvidia.com/jetpack-sdk-463). Downloading For "Jetson Nano Developer Kit" Version and installing it through the [instruction](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#write).
+
+・Installing Yolov5
+
+Installing Yolov5 through the [instruction](https://github.com/ultralytics/yolov5).
+
+・Get and Run the Project
+
+Store model.pt and detect_furigoma.py in the Yolov5 directory and execute the following command
+
+`python3 detect_furigoma.py --source 0 --weight model.pt`
+
+
