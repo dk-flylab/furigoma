@@ -29,6 +29,7 @@ This project counts the types of pieces in furikoma to determine the first and s
  - Labeling range specification was automated by detecting the edge of the piece.
  
 ・Training epoch : 100
+
 `python train.py --img 640 --batch 64 --epochs 100 --data '/content/drive/MyDrive/furigoma.yaml' --name furigoma --cfg ./models/yolov5s.yaml --weights yolov5s.pt`
 
 ![results](https://github.com/dk-flylab/furigoma/blob/main/images/results.png)
