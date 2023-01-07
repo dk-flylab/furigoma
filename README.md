@@ -44,10 +44,13 @@ Picture of the edge system is here.
 ![EdgeSystem](https://github.com/dk-flylab/furigoma/blob/main/images/EdgeSystem.jpg)
 
 # DEMO
+There is [FULL VIDEO]() the Edge system running. It uses a fast processing model, and detection accuracy is not high. However, we believe that the results are sufficiently good for practical use.
 
-![Sente](https://github.com/dk-flylab/furigoma/blob/main/images/sente.gif)
+Below are examples of successful detection and determination.
 
-![Gote](https://github.com/dk-flylab/furigoma/blob/main/images/gote.gif)
+![Sente](https://github.com/dk-flylab/furigoma/blob/main/images/sente.gif)　Sente(Black)
+
+![Gote](https://github.com/dk-flylab/furigoma/blob/main/images/gote.gif)　Gote(White)
 
 # Setup to Run
 ・Jetson
