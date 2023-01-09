@@ -28,9 +28,9 @@ In this project, we determine turn the higher-ranked player the by counting the 
  
  ![data](https://github.com/dk-flylab/furigoma/blob/main/images/data%20.png)
  
- - Segmentation was automated by detecting the edges of the piece.
+ - Bounding box settings were automated by detecting the edges of the pieces.
  
-![edge](https://github.com/dk-flylab/furigoma/blob/main/images/edge.gif)Video of automatic segmentation setting results
+![edge](https://github.com/dk-flylab/furigoma/blob/main/images/edge.gif)Video of automatic Bounding box setting results
  
 ・Training epoch : 100
 
