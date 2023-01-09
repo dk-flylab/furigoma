@@ -23,7 +23,7 @@ In this project, we determine turn the higher-ranked player the by counting the 
 # AI model and Training of Deep Learning
 ・Model : [YOLOv5s](https://github.com/ultralytics/yolov5#pretrained-checkpoints)
 
-・Number of training data : ![Approximately 4,000 sets](https://github.com/dk-flylab/furigoma/tree/main/model/furigoma) with Hohei and Tokin of photos and label data.
+・Number of training data : [Approximately 4,000 sets](https://github.com/dk-flylab/furigoma/tree/main/model/furigoma) with Hohei and Tokin of photos and label data.
  - A small number of photos were resized, luminosity changed, and rotated to increase the number.
  
  ![data](https://github.com/dk-flylab/furigoma/blob/main/images/data%20.png)
