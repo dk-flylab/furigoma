@@ -34,10 +34,11 @@ In this project, we determine turn the higher-ranked player the by counting the 
  
 ・Training epoch : 100
 
+Learning was done using [Google Colaboratory](https://colab.research.google.com/).
+
 `python train.py --img 640 --batch 64 --epochs 100 --data '/content/drive/MyDrive/furigoma.yaml' --name furigoma --cfg ./models/yolov5s.yaml --weights yolov5s.pt`
 
 ![results](https://github.com/dk-flylab/furigoma/blob/main/images/results.png)
-Learning was done using [Google Colaboratory](https://colab.research.google.com/).
 
 # Edge System
 ・Hardware : Edge device is NVIDIA Jetson Nano, and video source is USB Camera of Logicool C270n.
