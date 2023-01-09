@@ -30,7 +30,7 @@ In this project, we determine turn the higher-ranked player the by counting the 
  
  - Bounding box settings were automated by detecting the edges of the pieces.
  
-![edge](https://github.com/dk-flylab/furigoma/blob/main/images/edge.gif)Video of automatic Bounding box setting results
+![edge](https://github.com/dk-flylab/furigoma/blob/main/images/edge.gif)　Video showing the results of the automatic setup of the bounding box
  
 ・Training epoch : 100
 
