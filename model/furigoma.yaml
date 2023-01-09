@@ -1,0 +1,9 @@
+# path
+train: /content/drive/MyDrive/furigoma/train
+val: /content/drive/MyDrive/furigoma/val
+
+# number of classes
+nc: 2
+
+# class names
+names: ['hohei','tokin']
