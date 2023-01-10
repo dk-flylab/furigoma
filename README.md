@@ -87,4 +87,7 @@ Store model.pt and detect_furigoma.py in the Yolov5 directory and execute the fo
 `python3 detect_furigoma.py --source 0 --weight model.pt`
 
 # Acknowledgments
+
+I am grateful to [thatoshi](https://github.com/thatoshi) for collaboration on the early stages of this work.
+
 I've learned AI from this [book](https://www.amazon.co.jp/Jetson-Nano-%E8%B6%85%E5%85%A5%E9%96%80-%E6%94%B9%E8%A8%82%E7%AC%AC2%E7%89%88-Japan-Group-ebook/dp/B092LY4HN9/ref=sr_1_1?crid=338JVODRS3E1K&keywords=jetson+%E6%9C%AC&qid=1673102318&sprefix=jetson+honn%2Caps%2C178&sr=8-1).
